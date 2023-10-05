@@ -1,6 +1,5 @@
-import testrouter from "./Test_route";
+import UrlShortenerRoutes from "./UrlShortenerRoutes";
 
 export default {
-    testrouter
+    UrlShortenerRoutes
 }
-

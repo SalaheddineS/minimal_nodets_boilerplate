@@ -1,5 +1,5 @@
-import testServices from "./testServices";
+import UrlShortenerService from "./UrlShortenerService";
 
-export default {
-    testServices
+export default{
+    UrlShortenerService
 }
